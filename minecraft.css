@@ -6,7 +6,7 @@ body{
 }
 
 #myModal{
-    background: url(images/minecraftbg.jpg);
+    background: url(minecraftbg.jpg);
     background-size:contain;
     width: auto;
     height:auto;
@@ -41,7 +41,7 @@ body{
 }
 
 #logo{
-    background: url(images/logo.png);
+    background: url(logo.png);
     background-size:contain;
     background-repeat:no-repeat;
     background-position:center;
@@ -51,7 +51,7 @@ body{
 }
 
 #pokelogo{
-    background: url(images/pokemon.png);
+    background: url(pokemon.png);
     background-size:contain;
     background-repeat:no-repeat;
     background-position:center;
@@ -72,7 +72,7 @@ body{
     background-color: green;
 }
 #tutorialModal, #winningModal{
-    background-image: url(images/professor.png);
+    background-image: url(professor.png);
     background-repeat:no-repeat;
     background-position-y: 100%;
     background-position-x: 95%;
@@ -162,23 +162,23 @@ body{
     text-align: left;
 }
 .dirt{
-    background-image: url("images/dirt.png");
+    background-image: url("dirt.png");
     background-size: contain;
 }
 .grass{
-    background-image: url("images/grass.png");
+    background-image: url("grass.png");
     background-size: contain;
 }
 .tree{
-    background-image: url("images/tree.png");
+    background-image: url("tree.png");
     background-size: contain;
 }
 .leaf{
-    background-image: url("images/leaf.jpg");
+    background-image: url("leaf.jpg");
     background-size: contain;
 }
 .rock{
-    background-image: url("images/rock.png");
+    background-image: url("rock.png");
     background-size: contain;
 }
 .clouds{
@@ -188,55 +188,55 @@ body{
     display: inline-block;
 }
 .pika{
-    background-image: url("images/pika.png");
+    background-image: url("pika.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .diglett{
-    background-image: url("images/diglett.png");
+    background-image: url("diglett.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .squirtle{
-    background-image: url("images/squirtle.png");
+    background-image: url("squirtle.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .mewtwo{
-    background-image: url("images/mewtwo.png");
+    background-image: url("mewtwo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .bulbasaur{
-    background-image: url("images/bulbasaur.png");
+    background-image: url("bulbasaur.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .pidgey{
-    background-image: url("images/pidgey.png");
+    background-image: url("pidgey.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .charmander{
-    background-image: url("images/charmander.png");
+    background-image: url("charmander.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .professor{
-    background-image: url("images/professor.png");
+    background-image: url("professor.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .professorMessage{
-    background-image: url("images/professor.png");
+    background-image: url("professor.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position-y:93%;
